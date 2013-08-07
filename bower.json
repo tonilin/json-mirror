@@ -1,0 +1,14 @@
+{
+  "name": "Json-Editor",
+  "version": "1.0.0",
+  "ignore": [
+
+  ],
+  "dependencies": {
+    "jquery": "2.0.0",
+    "codemirror": "~> 3.15",
+    "requirejs": null,
+    "requirejs-domready": null,
+    "bootstrap": null
+  }
+}
